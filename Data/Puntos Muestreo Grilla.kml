@@ -1,0 +1,2091 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Fotos" id="Fotos">
+	<SimpleField name="N" type="string"></SimpleField>
+	<SimpleField name="Tipo" type="string"></SimpleField>
+	<SimpleField name="N°" type="float"></SimpleField>
+	<SimpleField name="Masa.(kg)" type="float"></SimpleField>
+	<SimpleField name="Masa.Total.(kg)" type="float"></SimpleField>
+	<SimpleField name="Descripción.de.los.materiales.encontrados" type="string"></SimpleField>
+	<SimpleField name="N°.Fotografía.Antes" type="float"></SimpleField>
+	<SimpleField name="N°.Fotografía.Después" type="float"></SimpleField>
+	<SimpleField name="N°Fotografía.Extra" type="string"></SimpleField>
+	<SimpleField name="photo" type="string"></SimpleField>
+	<SimpleField name="photoQgis" type="int"></SimpleField>
+	<SimpleField name="clases" type="string"></SimpleField>
+</Schema>
+<Folder><name>Fotos</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">47</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">FUERA TRANSECTO CONCHAS</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4342</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4343</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4342.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.435721,-42.561203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">48</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">25</SimpleData>
+		<SimpleData name="Masa.(kg)">0.05</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">1.16</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Plumavit completo y fragmentado</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4349</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4354</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4349.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.43706,-42.563271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">49</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">108</SimpleData>
+		<SimpleData name="Masa.(kg)">0.095</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.855</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Plumavit disgregado, madera (otros).</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4355</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4356</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4355.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437194,-42.563265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">50</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">4</SimpleData>
+		<SimpleData name="Masa.(kg)">0.04</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.1</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Despejado</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4357</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4358</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4357.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437305,-42.563281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">51</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">60</SimpleData>
+		<SimpleData name="Masa.(kg)">0.09</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.49</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Abundante madera y vegetación. 2 Botellas y 1 bolsa.</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4359</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4360</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4359.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437391,-42.56337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">52</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">10</SimpleData>
+		<SimpleData name="Masa.(kg)">0.13</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">11.325</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">FUERA TRANSECTO</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4361</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4362</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4361.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Basura</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437338,-42.563447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">53</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">20</SimpleData>
+		<SimpleData name="Masa.(kg)">0.04</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.515</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Abundante madera y vegetación.</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4363</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4364</SimpleData>
+		<SimpleData name="N°Fotografía.Extra">4365</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4363.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437512,-42.563434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">54</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">2</SimpleData>
+		<SimpleData name="Masa.(kg)">0.04</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.325</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Poca basura.</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4366</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4367</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4366.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437616,-42.563482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">55</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">0</SimpleData>
+		<SimpleData name="Masa.(kg)">0</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.16</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Poca basura.</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4372</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4373</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4372.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437676,-42.563533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">56</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">0</SimpleData>
+		<SimpleData name="Masa.(kg)">0</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.485</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Poca basura. Tapa de tarro.</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4374</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4375</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4374.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437744,-42.563572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">57</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">16</SimpleData>
+		<SimpleData name="Masa.(kg)">0.05</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">1.54</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Basura incorporada en el suelo.</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4384</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4388</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4384.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437812,-42.563608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">58</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">23</SimpleData>
+		<SimpleData name="Masa.(kg)">0.04</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">1.115</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">-</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4389</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4390</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4389.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437887,-42.563653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">59</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">20</SimpleData>
+		<SimpleData name="Masa.(kg)">0.05</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.1</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">-</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4391</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4394</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4391.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438012,-42.563678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">60</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">30</SimpleData>
+		<SimpleData name="Masa.(kg)">0.04</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.46</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">-</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4408</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4409</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4408.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438049,-42.56372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">61</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">10</SimpleData>
+		<SimpleData name="Masa.(kg)">0.04</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.5</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">-</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4410</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4412</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4410.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438118,-42.563804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">62</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">0</SimpleData>
+		<SimpleData name="Masa.(kg)">0</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.06</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">-</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4413</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4414</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4413.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438189,-42.563841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">63</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">0</SimpleData>
+		<SimpleData name="Masa.(kg)">0</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Limpio</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4416</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4416.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438257,-42.563905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">64</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">16</SimpleData>
+		<SimpleData name="Masa.(kg)">0.5</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.815</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Más de 50% de vegetación</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4417</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4418</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4417.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438322,-42.563966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">65</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">17</SimpleData>
+		<SimpleData name="Masa.(kg)">0.04</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.355</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4419</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4424</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4419.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438403,-42.564011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">66</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">FUERA TRANSECTO</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4425</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4425.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Basura</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438381,-42.564035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">67</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">FUERA TRANSECTO</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438431,-42.564093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">68</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">27</SimpleData>
+		<SimpleData name="Masa.(kg)">0.065</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.455</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">-</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4427</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4428</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4427.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438528,-42.564044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">69</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">72</SimpleData>
+		<SimpleData name="Masa.(kg)">0.07</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.947</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Corrido de transecto</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4429</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4430</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4429.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Basura</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438574,-42.564111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">70</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">10</SimpleData>
+		<SimpleData name="Masa.(kg)">0.295</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">1</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">-</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4431</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4436</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4431.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438684,-42.56413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">71</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">12</SimpleData>
+		<SimpleData name="Masa.(kg)">0.065</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.76</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Plásticos, vegetación y plumavit disgregado.</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4437</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4440</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4437.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438744,-42.56417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">72</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">3</SimpleData>
+		<SimpleData name="Masa.(kg)">0.035</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.155</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">-</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4441</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">44444</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4441.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438825,-42.564217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">73</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">FUERA TRANSECTO</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.43878,-42.564325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">74</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">FUERA TRANSECTO</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438814,-42.564359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">75</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">21</SimpleData>
+		<SimpleData name="Masa.(kg)">9.3</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">11.52</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Gran Plumavit (9.2 kg)</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4447</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4449</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4447.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438895,-42.56427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">76</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">4</SimpleData>
+		<SimpleData name="Masa.(kg)">0.045</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.305</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">-</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4450</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4455</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4450.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438983,-42.564295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">77</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">16</SimpleData>
+		<SimpleData name="Masa.(kg)">0.08</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">2.165</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">-</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4456</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4457</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4456.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.439081,-42.564368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1133</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">41</SimpleData>
+		<SimpleData name="Masa.(kg)">0.28</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">1.34</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Bidón, bolsas, agregados de plumavit</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1464</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">1465</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1464.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.43711,-42.56316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1134</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">45</SimpleData>
+		<SimpleData name="Masa.(kg)">0.56</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.56</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1466</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">1467</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1466.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437218,-42.56322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1135</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">68</SimpleData>
+		<SimpleData name="Masa.(kg)">0.695</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.875</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Otros: plasticos varios
+agregados de plumavit</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1468</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">1469</SimpleData>
+		<SimpleData name="N°Fotografía.Extra">1470 referencia del punto</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1468.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437319,-42.563276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1136</SimpleData>
+		<SimpleData name="Masa.(kg)">0</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">No hay residuos</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1471</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1471.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437441,-42.56334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1137</SimpleData>
+		<SimpleData name="Tipo">Malla</SimpleData>
+		<SimpleData name="N°">1</SimpleData>
+		<SimpleData name="Masa.(kg)">0.36</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.725</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1472</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1472.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437549,-42.563393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1138</SimpleData>
+		<SimpleData name="Masa.(kg)">0</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Solamente un par de cuerdas</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1474</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1474.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437661,-42.563449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1139</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">16</SimpleData>
+		<SimpleData name="Masa.(kg)">0.27</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.34</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1475</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1475.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437758,-42.563493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1140</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">48</SimpleData>
+		<SimpleData name="Masa.(kg)">0.315</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.465</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Lata con arena
+Plástico no identificado
+Plumavit agregado y fragmentado</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1476</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">1477</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1476.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437825,-42.563567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1141</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">24</SimpleData>
+		<SimpleData name="Masa.(kg)">0.125</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.355</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Botella plástica PET
+Plumavit agregados y fragmentados</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1478</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">1479</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1478.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437912,-42.563627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1142</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">11</SimpleData>
+		<SimpleData name="Masa.(kg)">0</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">2</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Cabo en el borde de la grilla y cabos pequeños</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1480</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">1481</SimpleData>
+		<SimpleData name="N°Fotografía.Extra">1482 foto cabo</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1480.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.437989,-42.563695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1143</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">30</SimpleData>
+		<SimpleData name="Masa.(kg)">0.21</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.216</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Plástico para amarrar cables</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1490</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">1491</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1490.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438071,-42.563743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1145</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">2</SimpleData>
+		<SimpleData name="Masa.(kg)">0.1</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.1</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Nada</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1492</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1492.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438253,-42.563822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1147</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">1</SimpleData>
+		<SimpleData name="Masa.(kg)">5</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">5</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Grilla solo por plumavit</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1493</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1493.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438346,-42.563858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1150</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">37</SimpleData>
+		<SimpleData name="Masa.(kg)">0.405</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.908</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Trozos de botela y pedazos de malla
+Plumavit agregados y fragmentados</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1494</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">1495</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1494.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438424,-42.563945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1151</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">6</SimpleData>
+		<SimpleData name="Masa.(kg)">0.1</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.2</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Una cinta plástica y un poco de plumavit</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1496</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">1497</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1496.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438537,-42.564007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1152</SimpleData>
+		<SimpleData name="Masa.(kg)">0</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Tomada en la arena-playa
+nada
+(paralelo al anterior punto)</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1498</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1498.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438598,-42.563944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1153</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">29</SimpleData>
+		<SimpleData name="Masa.(kg)">0.53</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.63</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Muy poco plumavit</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1499</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">1500</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1499.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438613,-42.564077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1154</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">25</SimpleData>
+		<SimpleData name="Masa.(kg)">0.34</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.49</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Plástico envoltorio de comida
+Plumavit agregado y framentado</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1501</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">1502</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1501.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438728,-42.564107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1155</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">35</SimpleData>
+		<SimpleData name="Masa.(kg)">0.555</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.555</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Malla de frutas
+Plumavit agregado y fragmentado (muy poco)
+cáscara de frutas
+Mira de plastico, patron tapa bebida</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1503</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">1505</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1503.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438783,-42.56419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1156</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">35</SimpleData>
+		<SimpleData name="Masa.(kg)">0.23</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">1.105</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Placa de plástico 740 gr
+Lata cerveza 135 gr
+Envoltorio de comida
+Tapa botella plástica</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1506</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">1507</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1506.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438872,-42.564209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1157</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">2</SimpleData>
+		<SimpleData name="Masa.(kg)">0</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Plumavit agregado y fragmentado
+Rastros de plásticos y botellas</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1508</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">1509</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1508.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.438976,-42.564284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1159</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">30</SimpleData>
+		<SimpleData name="Masa.(kg)">0.44</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.605</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Botella plástica
+Cilindro plástico
+Un pedazo de bolsa</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1510</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">1511</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1510.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.439059,-42.564316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1160</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">16</SimpleData>
+		<SimpleData name="Masa.(kg)">0.305</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.305</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Solo cabos</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1512</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">1513</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1512.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.439148,-42.564369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1162</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">35</SimpleData>
+		<SimpleData name="Masa.(kg)">1.4</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">1.55</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Cabo grande 1,2 kg
+Botella Plástica
+Envoltorio comida</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1514</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">1516</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1514.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.439233,-42.564402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1163</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">58</SimpleData>
+		<SimpleData name="Masa.(kg)">0.87</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.87</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Botella plástica
+Cuadrado negro plástico
+Plumavit agregado fragementado</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1517</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">1518</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1517.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.439285,-42.564425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1164</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">1</SimpleData>
+		<SimpleData name="Masa.(kg)">17</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">17.2</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Lata de aerosol</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1519</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1519.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.43956,-42.564555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1165</SimpleData>
+		<SimpleData name="Masa.(kg)">0</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1525</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1525.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Pluma</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.440799,-42.565255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1166</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">2</SimpleData>
+		<SimpleData name="Masa.(kg)">17</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">17</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Dos bloques de plumavit</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1526</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1526.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.440821,-42.565294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1167</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">4</SimpleData>
+		<SimpleData name="Masa.(kg)">0</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Cuatro bloques de plumavit</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1527</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1527.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Basura</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.44093,-42.565352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1168</SimpleData>
+		<SimpleData name="Tipo">Boya</SimpleData>
+		<SimpleData name="N°">1</SimpleData>
+		<SimpleData name="Masa.(kg)">13</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">13</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">1528</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_1528.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.441045,-42.565399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">110</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2370</SimpleData>
+		<SimpleData name="N°Fotografía.Extra">(Cámara Lucas)</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2370.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.442092007,-42.565789958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">111</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Punto representativo</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4544</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4544.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.442026041,-42.565886015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">112</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">1</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Suelo con piedras</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4548</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4548.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.441904001,-42.565779984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">113</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4545</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4545.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.441938031,-42.565713013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">114</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4549</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4549.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.441854967,-42.565677976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">117</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">1</SimpleData>
+		<SimpleData name="Masa.(kg)">25.614</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">25.614</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Suelo con piedras cubierto por una plumavit</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4552</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4552.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.44165899799999,-42.565705972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">118</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4553</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4553.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.44169898,-42.565574963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">119</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Piedra</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4554</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4554.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.441555984,-42.56564403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">120</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4555</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4555.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.44159102099999,-42.565560965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">121</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Piedra</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4556</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4556.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.441451965,-42.56559399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">122</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4557</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4557.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.441504017,-42.56551696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">123</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">1</SimpleData>
+		<SimpleData name="Masa.(kg)">4.5</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">17.8</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Piedra con Plumavit y Boya (*Sin restar peso bolsa 0.075)</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4558</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4558.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Basura</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.441349035,-42.565572029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">124</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4559</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4559.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.441405026,-42.565479996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">125</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4560</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4560.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.441295978,-42.565446971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">126</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">170</SimpleData>
+		<SimpleData name="Masa.(kg)">3.505</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">4.245</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Ramas, material orgánico, linea de basura sobre piedras</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4565</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4567</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4565.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Basura</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.441243004,-42.565528024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">127</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">15</SimpleData>
+		<SimpleData name="Masa.(kg)">0.473</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.473</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena y Cabos</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4568</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4572</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4568.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.44116396299999,-42.565483013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">128</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena con línea de conchas </SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4569</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4569.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Basura</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.44119397,-42.565422999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">129</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Línea de conchas</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4571</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4571.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.441096991,-42.56535301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">130</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">68</SimpleData>
+		<SimpleData name="Masa.(kg)">1.96</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">1.96</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena, cabos y material orgánico
+Un cabo mayor de 1.2 kg</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4573</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4581</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4573.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.441073019,-42.565431967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">131</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Línea de conchas</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4574</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4574.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.441022979,-42.565321997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">132</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">8</SimpleData>
+		<SimpleData name="Masa.(kg)">4.31</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">18.265</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena, cabos y material orgánico
+Cabo mayor de 8.25 kg
+Cabo mayor de 4.78 kg
+</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4584</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4590</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4584.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.440998001,-42.565392992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">133</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Línea de conchas</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4591</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4591.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.440935975,-42.565267012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">134</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">32</SimpleData>
+		<SimpleData name="Masa.(kg)">2.82</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">4.295</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Línea de basura
+Otros: vidrio y tetra pack</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4592</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4595</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4592.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Basura</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.44089800499999,-42.565344963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">135</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">47</SimpleData>
+		<SimpleData name="Masa.(kg)">0.82</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">16.189</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Plumavit grande con malla de cabos 15.5 kg</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4596</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4601</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4596.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Basura</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.44083497299999,-42.565304982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">136</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Línea de conchas</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4600</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4600.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.440799015,-42.565181013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">137</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">91</SimpleData>
+		<SimpleData name="Masa.(kg)">0.465</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">3.58</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena con plumavit, vegetación y plásticos</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4602</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4603</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4602.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Basura</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.440745035,-42.565262988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">138</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">1</SimpleData>
+		<SimpleData name="Masa.(kg)">0.445</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.54</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena con pocas botellas</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4604</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4605</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4604.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Basura</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.440656019,-42.565220995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">139</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Sin descripción</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4606</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4606.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.44072500199999,-42.56513902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">140</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Línea de conchas, 1 cabo (no hay peso)</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4607</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4607.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.440572033,-42.565042963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">141</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">1</SimpleData>
+		<SimpleData name="Masa.(kg)">0.0685</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.1635</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena duna, 1 botella</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4608</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4609</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4608.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.440570021,-42.565155029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">142</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">2</SimpleData>
+		<SimpleData name="Masa.(kg)">0.105</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.28</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena, 2 botellas</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4610</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4611</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4610.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.440484023,-42.565114042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">143</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Duna</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4613</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4613.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.440400036,-42.565058973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">144</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">16</SimpleData>
+		<SimpleData name="Masa.(kg)">0.12</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.12</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena, cabos y material orgánico</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4614</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4616</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4614.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.440396013,-42.565004993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">145</SimpleData>
+		<SimpleData name="Tipo">Plásticos</SimpleData>
+		<SimpleData name="N°">2</SimpleData>
+		<SimpleData name="Masa.(kg)">0.23</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.23</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Duna, pocas plantas, 2 botellas</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4615</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4615.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Basura</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.440233991,-42.564978004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">146</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">15</SimpleData>
+		<SimpleData name="Masa.(kg)">1.07</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">5.27</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena con cabos y plástico</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4617</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4619</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4617.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.440275984,-42.564941961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">147</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena duna</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4618</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4618.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.440131983,-42.564940033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">148</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">1</SimpleData>
+		<SimpleData name="Masa.(kg)">0.004</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.749</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena y 1 botella</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4621</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4621.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.440040033,-42.564906003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">149</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4622</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4622.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.440131983,-42.564863004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">150</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">7</SimpleData>
+		<SimpleData name="Masa.(kg)">0.175</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">7.565</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4623</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4624</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4623.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.43996400899999,-42.564822016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">151</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">15</SimpleData>
+		<SimpleData name="Masa.(kg)">0.14</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.14</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Material orgánico y cabos</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4625</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4627</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4625.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.439828977,-42.564741969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">152</SimpleData>
+		<SimpleData name="Tipo">Plumavit</SimpleData>
+		<SimpleData name="N°">2</SimpleData>
+		<SimpleData name="Masa.(kg)">0.09</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.29</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena duna</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4626</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4628</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4626.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.439788995,-42.564793015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">153</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">16</SimpleData>
+		<SimpleData name="Masa.(kg)">0.275</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.4</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena, camino de materia orgánica</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4629</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4630</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4629.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.439742979,-42.564686984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">154</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">26</SimpleData>
+		<SimpleData name="Masa.(kg)">1.4</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">1.565</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena y mugre</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4631</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4635</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4631.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.43958498,-42.564618001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">155</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">35</SimpleData>
+		<SimpleData name="Masa.(kg)">1.145</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">1.275</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Gran plumavit 3.29 kg</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4632</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4636</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4632.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.439679025,-42.564640967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">156</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">74</SimpleData>
+		<SimpleData name="Masa.(kg)">0.525</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.605</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Arena con cabos</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4641</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4645</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4641.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.439483978,-42.564551029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">157</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">1</SimpleData>
+		<SimpleData name="Masa.(kg)">0.13</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.13</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4643</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4643.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.439601995,-42.564576007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">158</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">125</SimpleData>
+		<SimpleData name="Masa.(kg)">0.695</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.925</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4644</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4647</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4644.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.439404014,-42.564483974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">159</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">172</SimpleData>
+		<SimpleData name="Masa.(kg)">1.85</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">2.53</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4646</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4649</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4646.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Basura</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.439332014,-42.564538037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">160</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">63</SimpleData>
+		<SimpleData name="Masa.(kg)">0.75</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">0.92</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Linea materia orgánica con cabos y plásticos</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4648</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4654</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4648.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.439299995,-42.564410968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">161</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">84</SimpleData>
+		<SimpleData name="Masa.(kg)">2.01</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">2.09</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Linea vegetación con arena y cabos</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4650</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4651</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4650.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.43924501,-42.564476011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">162</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">8</SimpleData>
+		<SimpleData name="Masa.(kg)">0.14</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">5.95</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Linea de vegetación con un gran pllumavit de 4.87 kg</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4652</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4656</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4652.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.439175021,-42.564422032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">163</SimpleData>
+		<SimpleData name="Tipo">Cabos</SimpleData>
+		<SimpleData name="N°">46</SimpleData>
+		<SimpleData name="Masa.(kg)">0.875</SimpleData>
+		<SimpleData name="Masa.Total.(kg)">1.125</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Línea materia organica con cabos y plásticos</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4655</SimpleData>
+		<SimpleData name="N°.Fotografía.Después">4657</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4655.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.439168986,-42.564339973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1168</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Mayoritariamente cabos</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2322</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2322.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.441045023500905,-42.565399026498199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1169</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Mayoritariamente cabos</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2323</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2323.jpg?raw=true&quot;&gt;</SimpleData>
+		<SimpleData name="clases">Suelo1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.441770980134606,-42.565621985122597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1170</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Cabos y mallas</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2324</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2324.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.5413950122893,-42.684142012149103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1171</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Cabos y plásticos</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2325</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2325.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.5412080120295,-42.684067999944098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1172</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Presencia de agregados de plumavit y cabo</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2326</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2326.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.541050013154702,-42.684018965810502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1173</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Mayoritariamente cabos</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2327</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2327.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.540942976251202,-42.684006979689002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1174</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Cabos y plástico</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2328</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2328.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.540797969326405,-42.683987030759504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1175</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Cabos y plástico</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2329</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2329.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.5406869929284,-42.683968003839297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1176</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Piedra limpia</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2330</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2330.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.540624966844902,-42.684003962203903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1177</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Plástico y cabos</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2331</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2331.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.540553972125096,-42.683958029374502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1178</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Cabos y plástico</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2332</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2332.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.540407959371805,-42.683922993019202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1179</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Basura gral cabos, mayor proporción piedras</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2333</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2333.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.540305029600901,-42.6839260105044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1180</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">100% plumavit 24 kilos</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2334</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2334.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.540233029052601,-42.683879993856003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1181</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Más piedras q cabos</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2335</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2335.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.540117023512707,-42.683897009119399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1182</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Más piedras q cabo</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2336</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2336.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.539971010759501,-42.6838540099561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1183</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Basura domiciliaria</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2337</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2337.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.539841007441296,-42.683833977207499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1184</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Ramas, cabos, plumavit y basura</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2338</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2338.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.539746962487698,-42.6838189736009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1185</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Plumavit desintegrado</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2339</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2339.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.539643026888399,-42.683779997751103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1186</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Cabos verdes, mayoritariamente</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2340</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2340.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.539554011076703,-42.683767005801201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1187</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Punto limpio (piedras)</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2341</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2341.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.539410009980202,-42.6837749686092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1188</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Piedra con plumavit</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2342</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2342.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.539286963641601,-42.683726018294699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1189</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Maderas con cabos y plástico domiciliario </SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2343</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2343.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.539127958938494,-42.683682013302999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1190</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Punto plumavit</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2344</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2344.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.538880022242694,-42.683644965291002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1191</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Pasto con botellas</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2345</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2345.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.538813972845702,-42.683657035231597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1192</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">A 3m del camino - línea de marea</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2346</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2346.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.538671983405905,-42.683599032461601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1193</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Plumavit con pasto</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2349</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.538420023396597,-42.683557961136103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1194</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Palos con cabos y plumavit desintegrado</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2350</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2350.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.538270993158207,-42.683482021093397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1195</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Piedras y basura</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2351</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2351.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.538021966814995,-42.683417983353102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1196</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Boya</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2352</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2352.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.537816023454099,-42.683370038866997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">1197</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">Plumavit más grande que grilla</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">2353</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_2353.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.537281006574602,-42.683212039992199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">78</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4466</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4466.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.541708998382106,-42.6841369830072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">79</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4467</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4467.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.541908990591807,-42.684175036847599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">80</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">SIN BASURA</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4468</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4468.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.542104037478595,-42.684238990768797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">81</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">CABOS 1.5M DE ALTURA</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4471</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4471.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.542248960584402,-42.6842049602419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">82</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4472</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4472.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.542312998324604,-42.684200014919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">83</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4474</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4474.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.542446019127993,-42.684245025739102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">84</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">CONCHAS</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4475</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4475.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.542432021349697,-42.684267992153799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">85</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4476</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4476.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.542641988024101,-42.684296993538702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">86</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4477</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4477.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.542912974953694,-42.6843000110239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">87</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4479</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4479.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.543111961334901,-42.684335969388499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">88</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4480</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4480.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.543372973799706,-42.684354996308699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">89</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4482</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4482.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.550030970945997,-42.684834022074902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">90</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4485</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4485.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.549844976514606,-42.684812983497999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">91</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4486</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4486.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.5497019812465,-42.684851959347696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">92</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4487</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4487.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.549512969329996,-42.6848330162466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">93</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">BOYA</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4488</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4488.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.549349019303904,-42.684821030125001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">94</SimpleData>
+		<SimpleData name="Descripción.de.los.materiales.encontrados">LIMPIO</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4489</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4489.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.549233013763995,-42.684877021238201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">95</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4491</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4491.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.549084989354,-42.684799991548097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">96</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4492</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4492.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.548853984102607,-42.684818012639901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">97</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4493</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4493.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.548624990508003,-42.684779036790097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">98</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4497</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4497.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.557402016595006,-42.684555994346702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">99</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4498</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4498.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.5576139949262,-42.684535961598201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">100</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4499</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4499.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.557791020721197,-42.6845269929618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">101</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4500</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4500.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.557938039302798,-42.684518024325399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">102</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4501</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4501.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.558359984308495,-42.684478964656599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">103</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4507</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4507.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.558671958744497,-42.684460021555402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Fotos">
+		<SimpleData name="N">104</SimpleData>
+		<SimpleData name="N°.Fotografía.Antes">4508</SimpleData>
+		<SimpleData name="photo">&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://github.com/Tartomas/PREDRES/blob/master/Fotos/IMG_4508.jpg?raw=true&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.558997008949504,-42.684420039877303</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
